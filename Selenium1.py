@@ -16,3 +16,4 @@ element1 = driver.find_element_by_xpath("//a[contains(text(),'CHECK FEATURES!')]
 # element1.is_enabled()
 # element1.is_displayed()
 element1.click()
+print (1234)
